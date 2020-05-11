@@ -1,0 +1,22 @@
+SPACE BRICK VERSION 2.0 (Produced May 2018)
+
+In this iteration, made for an AP Computer Science A final project,
+the underlying game engine has been fully revamped and reorganized,
+as well as fully documented. The newer engine is far more efficient
+and user friendly than the original, and makes better use of object
+oriented methodology than the first version. Like the first version,
+however, collision is still rudimentary.
+
+In this version, an enemy unit has been added in, all sprites are now
+64-bit, new weapons have been added, and the level now has complete
+bounds.
+
+Settings (and user control over them) took a step back in this iteration
+due to time constraints (there wasn't enough time to add the settings
+back into the new engine given the time I had to work on my final).
+
+Art assets are still painstakingly produced using Paint.NET.
+
+Source code is included as an Eclipse project (Oxygen Dec 2017).
+
+-Sydney Fonderie (May 1, 2019)

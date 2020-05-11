@@ -1,0 +1,14 @@
+SPACE BRICK VERSION 1.0 (Produced January, 2017)
+
+This was my first attempt at creating a 2D video game in Java from Scratch. It
+is built using a custom-built lightweight game engine, and features a number of
+experimental versions of standard gameplay features. Core to Space Brick 1.0 is
+the inclusion of a relative screen rendering system. Its greatest weakness is 
+the fact that the collision system is extremely inefficient and breaks if 
+objects don't move in set increments.
+
+All art assets are custom desgined and painstakingly drawn using Paint.NET.
+
+Source code is included as an Eclipse Project (Oxygen Dec 2017).
+
+-Sydney Fonderie (May 1, 2019)
